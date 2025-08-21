@@ -1,15 +1,4 @@
-/* 🎈 YES – Submissão aceita */
-/* ❌ NO - Time limit exceeded */
-/* ❌ NO - Time limit exceeded */
-/* ❌ NO - Time limit exceeded */
-/* 🎈 YES – Submissão aceita */
-/* 🎈 YES – Submissão aceita */
-/* 🎈 YES – Submissão aceita */
-/* 🎈 YES – Submissão aceita */
-/* 🎈 YES – Submissão aceita */
-/* ❌ NO - Compilation error */
-/* ❌ NO - Compilation error */
-/* 🎈 YES – Submissão aceita */
+
 #include <math.h>
 #include <stdio.h>
 
@@ -22,4 +11,4 @@ int main(){
 
 	return 0;
 }
-//tedsdsds
+//tedsdsdsdsdsdsd
